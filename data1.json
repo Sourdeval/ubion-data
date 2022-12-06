@@ -34,12 +34,12 @@
             "relation":"bad"
         }
     ],
-    "lastReport": "sdf",
+    "lastReport": "",
     "population": 8,
     "ressources": 4,
     "army": 1,
-    "food": "suffisante",
-    "popularity": "contestation",
+    "food": "abondance",
+    "popularity": "moyenne",
     "cities": [
         {
             "name": "Capitale",
