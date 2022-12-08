@@ -46,6 +46,7 @@
             "population": 5,
             "richness": "moyen",
             "defence": 1,
+            "ctiteRooms": 4,
             "description": "Fondée en 1 après la sortie de la caverne, la capitale de votre pays se trouve au milieu d'une forêt."
         },
         {
@@ -53,6 +54,7 @@
             "population": 3,
             "richness": "pauvre",
             "defence": 0,
+            "ctiteRooms": 2,
             "description": "Seconde citée de votre pays. Elle a été construite difficilement entre 3 endroits, le désert, un oasis et quelques terres cultivables. Les Sariniens vous louent des terres au plus proche de cette citée."
         }
     ]
