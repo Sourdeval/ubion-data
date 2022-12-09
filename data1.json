@@ -57,5 +57,18 @@
             "ctiteRooms": 2,
             "description": "Seconde citée de votre pays. Elle a été construite difficilement entre 3 endroits, le désert, un oasis et quelques terres cultivables. Les Sariniens vous louent des terres au plus proche de cette citée."
         }
-    ]
+    ],
+    "cults": [
+        {
+            "name": "Les Adorateurs de Léviathan",
+            "percent": "80%",
+            "other": "Puissance : 3 sénateurs (Nv 5)"
+        }
+    ],
+    "science": 2,
+    "education": 3,
+    "culture": 3,
+    "spy": 4,
+    "specialForces": 7,
+    "explorer": 2
 }
