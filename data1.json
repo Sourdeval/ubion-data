@@ -1,8 +1,45 @@
 {
     "senators":[
         {
-            "name": "flo",
+            "name": "Xorghlobster",
+            "fullname": "Xorghlobster",
+            "job": "Sacrifieur",
+            "description": ""
+        },
+        {
+            "name": "Justux",
+            "fullname": "Justux",
+            "job": "Architecte",
+            "description": ""
+        },
+        {
+            "name": "Azulaflux",
+            "fullname": "Azulaflux",
+            "job": "Riche",
+            "description": ""
+        },
+        {
+            "name": "Karrakruss",
+            "fullname": "Chef Trouveur Karrakruss",
+            "job": "Trouveur",
+            "description": ""
+        },
+        {
+            "name": "Zugluflux",
+            "fullname": "Zugluflux",
+            "job": "Missionaire",
+            "description": ""
+        },
+        {
+            "name": "Xorgfo",
+            "fullname": "Xorgfo",
+            "job": "Architecte",
+            "description": ""
+        },
+        {
+            "name": "Xorcruz",
             "fullname": "Général Xorcruz",
+            "job": "Chef Militaire",
             "description": ""
         }
     ],
