@@ -7,12 +7,6 @@
             "description": ""
         },
         {
-            "name": "Justux",
-            "fullname": "Justux",
-            "job": "Architecte",
-            "description": ""
-        },
-        {
             "name": "Azulaflux",
             "fullname": "Azulaflux",
             "job": "Riche",
@@ -28,6 +22,12 @@
             "name": "Zugluflux",
             "fullname": "Zugluflux",
             "job": "Missionaire",
+            "description": ""
+        },
+        {
+            "name": "Justux",
+            "fullname": "Justux",
+            "job": "Architecte",
             "description": ""
         },
         {
