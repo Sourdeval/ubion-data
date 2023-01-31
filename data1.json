@@ -10,7 +10,7 @@
             "name": "Azulaflux",
             "fullname": "Azulaflux",
             "job": "Riche",
-            "description": ""
+            "description": "Monopole de la Roue."
         },
         {
             "name": "Karrakruss",
@@ -73,7 +73,7 @@
     ],
     "lastReport": "",
     "population": 8,
-    "ressources": 4,
+    "ressources": 12,
     "army": 1,
     "food": "abondance",
     "popularity": "moyenne",
@@ -99,11 +99,11 @@
         {
             "name": "Les Adorateurs de Léviathan",
             "percent": "80%",
-            "other": "Puissance : 3 sénateurs (Nv 5)"
+            "other": "Puissance : 3 sénateurs (Nv 6)"
         }
     ],
     "science": 2,
-    "education": 3,
+    "education": 4,
     "culture": 3,
     "spy": 4,
     "specialForces": 7,
