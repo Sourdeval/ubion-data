@@ -105,7 +105,21 @@
     "science": 2,
     "education": 4,
     "culture": 3,
-    "spy": 4,
-    "specialForces": 7,
-    "explorer": 2
+    "brigades":[
+        {
+            "name": "Eclaireurs",
+            "level": 2,
+            "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
+        },
+        {
+            "name": "Comédiens",
+            "level": 4,
+            "description": "Ils sont capables de se déguiser et de prendre des accents pourris."
+        },
+        {
+            "name": "Fantômes",
+            "level": 7,
+            "description": "Ils s'infiltrent partout, mais sont considérés comme des traîtres par votre peuple."
+        }
+    ]
 }
