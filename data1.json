@@ -73,7 +73,7 @@
     ],
     "lastReport": "",
     "population": 8,
-    "ressources": 12,
+    "ressources": 11,
     "army": 1,
     "food": "abondance",
     "popularity": "moyenne",
@@ -81,7 +81,7 @@
         {
             "name": "Capitale",
             "population": 5,
-            "richness": "moyen",
+            "richness": "pauvre",
             "defence": 1,
             "ctiteRooms": 3,
             "description": "Fondée en l'an 1 après la sortie de la caverne, la capitale de votre pays se trouve au milieu d'une forêt."
@@ -98,18 +98,24 @@
     "cults": [
         {
             "name": "Les Adorateurs de Léviathan",
-            "percent": "80%",
-            "other": "Puissance : 3 sénateurs (Nv 6)"
+            "percent": "70%",
+            "other": "Puissance : 3 sénateurs (Nv 5)"
         }
     ],
     "science": 2,
-    "education": 4,
-    "culture": 3,
+    "education": 3,
+    "culture": 2,
+    "health": 0,
     "brigades":[
         {
             "name": "Eclaireurs",
             "level": 2,
             "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
+        },
+        {
+            "name": "Rondinteurs",
+            "level": 5,
+            "description": "Ils font du bruit en rythme pour motiver les Xorghluflux."
         },
         {
             "name": "Comédiens",
