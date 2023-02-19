@@ -113,11 +113,6 @@
             "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
         },
         {
-            "name": "Rondinteurs",
-            "level": 5,
-            "description": "Ils font du bruit en rythme pour motiver les Xorghluflux."
-        },
-        {
             "name": "Comédiens",
             "level": 4,
             "description": "Ils sont capables de se déguiser et de prendre des accents pourris."
