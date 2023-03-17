@@ -1,7 +1,7 @@
 [
     {
         "name": "Budget Militaire",
-        "description": "1PR pour garder une armée, 2PR pour en créer une.",
+        "description": "Illimité. 1PR pour garder une armée, 2PR pour en créer une.",
         "color": "red"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "Trouveurs",
-        "description": "1PR pour 10% de chance de découvrir une technologie.",
+        "description": "Illimité. 1PR pour 10% de chance de découvrir une technologie.",
         "color": "blue"
     },
     {
