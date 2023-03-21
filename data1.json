@@ -34,13 +34,19 @@
             "name": "Xorgfo",
             "fullname": "Xorgfo",
             "job": "Architecte",
-            "description": ""
+            "description": "Spécialiste de l'Architecture Blanche de l'Oasis."
         },
         {
             "name": "Xorcruz",
             "fullname": "Général Xorcruz",
             "job": "Chef Militaire",
             "description": ""
+        },
+        {
+            "name": "Stupeflux",
+            "fullname": "Stupeflux",
+            "job": "Eleveur",
+            "description": "Elève des Vrechs à la cité de l'Oasis."
         }
     ],
     "species": {
