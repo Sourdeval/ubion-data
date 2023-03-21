@@ -78,7 +78,7 @@
         }
     ],
     "lastReport": "",
-    "population": 8,
+    "population": 9,
     "ressources": 11,
     "army": 1,
     "food": "abondance",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Cité de l'Oasis",
-            "population": 3,
+            "population": 4,
             "richness": "pauvre",
             "defence": 0,
             "ctiteRooms": 2,
@@ -105,13 +105,13 @@
         {
             "name": "Les Adorateurs de Léviathan",
             "percent": "70%",
-            "other": "Puissance : 3 sénateurs (Nv 5)"
+            "other": "Puissance : 3 sénateurs (Nv 6)"
         }
     ],
     "science": 2,
-    "education": 3,
-    "culture": 2,
-    "health": 0,
+    "education": 4,
+    "culture": 3,
+    "health": 1,
     "brigades":[
         {
             "name": "Eclaireurs",
