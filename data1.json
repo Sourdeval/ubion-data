@@ -79,7 +79,7 @@
     ],
     "lastReport": "Impôts : 7PR + 4PR (Sariniens). Population : Capitale 5, Oasis 3 => 4. Nourriture toujours abondante. La richesse de la Capitale a légèrement diminuée.",
     "population": 9,
-    "ressources": 11,
+    "ressources": 10,
     "army": 1,
     "food": "abondance",
     "popularity": "moyenne",
@@ -115,7 +115,7 @@
     "brigades":[
         {
             "name": "Eclaireurs",
-            "level": 2,
+            "level": 1,
             "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
         },
         {
