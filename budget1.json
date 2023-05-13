@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Budget Militaire",
+        "description": "Illimité. 1PR pour garder une armée, 2PR pour en créer une.",
+        "color": "red"
+    },
+    {
+        "name": "Formation pour adulte",
+        "description": "1PR maximum. Améliore l'éducation et donc la découverte de technologies.",
+        "color": "blue"
+    },
+    {
+        "name": "Trouveurs",
+        "description": "Illimité. 1PR pour deux fois 10% de chance de découvrir une technologie.",
+        "color": "blue"
+    },
+    {
+        "name": "Distribution de Purpazula à la population",
+        "description": "1PR maximum.",
+        "color": "green"
+    },
+    {
+        "name": "Distribution de Purpazula aux migrants",
+        "description": "1PR maximum.",
+        "color": "green"
+    },
+    {
+        "name": "Pôle Enflux",
+        "description": "1PR maximum. Permet de trouver du travail aux pauvres.",
+        "color": "none"
+    },
+    {
+        "name": "Construire un village aux migrants",
+        "description": "1PR. Pour qu'ils puissent dormir à l'abris cet hivers.",
+        "color": "none"
+    },
+    {
+        "name": "Construire une nouvelle Cité",
+        "description": "3PR",
+        "color": "none"
+    },
+    {
+        "name": "Construire deux autres Fossafeu à la Capitale",
+        "description": "1PR",
+        "color": "red"
+    },
+    {
+        "name": "Construire une Fossafeu à la Cité de l'Oasis",
+        "description": "1PR",
+        "color": "red"
+    },
+    {
+        "name": "Construire un Coliséum",
+        "description": "2PR, dans quelle ville ?",
+        "color": "none"
+    },
+    {
+        "name": "Adorateurs de Léviathan",
+        "description": "1PR pour former de nouveaux éducateurs.",
+        "color": "religious"
+    },
+    {
+        "name": "Brigade : Eclaireurs",
+        "description": "1PR pour pas baisser, 2PR pour monter de 1 ou 2 niveaux, 3PR pour monter de 2, 3 ou 4 niveaux.",
+        "color": "red"
+    },
+    {
+        "name": "Brigade : Comédiens",
+        "description": "1PR pour pas baisser, 2PR pour monter de 1 ou 2 niveaux, 3PR pour monter de 2, 3 ou 4 niveaux.",
+        "color": "red"
+    },
+    {
+        "name": "Brigade : Fantômes",
+        "description": "1PR pour pas baisser, 2PR pour monter de 1 ou 2 niveaux, 3PR pour monter de 2, 3 ou 4 niveaux.",
+        "color": "red"
+    },
+    {
+        "name": "Autres (préciser)",
+        "description": "",
+        "color": "none"
+    }
+]
