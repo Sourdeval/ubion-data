@@ -77,25 +77,25 @@
             "relation":"bad"
         }
     ],
-    "lastReport": "Impôts : 7PR + 4PR (Sariniens). Population : Capitale 5, Oasis 3 => 4. Nourriture toujours abondante. La richesse de la Capitale a légèrement diminuée.",
-    "population": 9,
-    "ressources": 9,
-    "army": 1,
+    "lastReport": "Impôts : 8PR + 4PR (Sariniens). Population : Capitale 5 => 6, Oasis 4 => 5. Nourriture : abondante => suffisante. Forte augmentation de la population due à une baisse inédite des endormissements.",
+    "population": 11,
+    "ressources": 12,
+    "army": 2,
     "food": "suffisante",
     "popularity": "moyenne",
     "cities": [
         {
             "name": "Capitale",
-            "population": 5,
-            "richness": "pauvre",
+            "population": 6,
+            "richness": "faible",
             "defence": 1,
             "ctiteRooms": 3,
             "description": "Fondée en l'an 1 après la sortie de la caverne, la capitale de votre pays se trouve au milieu d'une forêt."
         },
         {
             "name": "Cité de l'Oasis",
-            "population": 4,
-            "richness": "pauvre",
+            "population": 5,
+            "richness": "faible",
             "defence": 0,
             "ctiteRooms": 2,
             "description": "Seconde cité de votre pays. Elle a été construite difficilement entre 3 endroits, le désert, un oasis et quelques terres cultivables. Les Sariniens vous louent des terres au plus proche de cette cité."
@@ -109,9 +109,9 @@
         }
     ],
     "science": 0,
-    "education": 4,
+    "education": 3,
     "culture": 3,
-    "health": 1,
+    "health": 0,
     "brigades":[
         {
             "name": "Eclaireurs",
