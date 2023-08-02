@@ -21,7 +21,7 @@
         {
             "name": "Zugluflux",
             "fullname": "Zugluflux",
-            "job": "Missionaire",
+            "job": "Camerlingue",
             "description": ""
         },
         {
@@ -66,7 +66,7 @@
             "characters": [
                 {
                     "name": "Miro",
-                    "relation": "good"
+                    "relation": "neutral"
                 }
             ],
             "relation": "neutral"
@@ -79,7 +79,7 @@
     ],
     "lastReport": "Impôts : 8PR + 4PR (Sariniens). Population : Capitale 5 => 6, Oasis 4 => 5. Nourriture : abondante => suffisante. Forte augmentation de la population due à une baisse inédite des endormissements.",
     "population": 11,
-    "ressources": 12,
+    "ressources": 10,
     "army": 2,
     "food": "suffisante",
     "popularity": "moyenne",
@@ -87,7 +87,7 @@
         {
             "name": "Capitale",
             "population": 6,
-            "richness": "faible",
+            "richness": "moyen",
             "defence": 1,
             "ctiteRooms": 3,
             "description": "Fondée en l'an 1 après la sortie de la caverne, la capitale de votre pays se trouve au milieu d'une forêt."
@@ -95,7 +95,7 @@
         {
             "name": "Cité de l'Oasis",
             "population": 5,
-            "richness": "faible",
+            "richness": "moyen",
             "defence": 0,
             "ctiteRooms": 2,
             "description": "Seconde cité de votre pays. Elle a été construite difficilement entre 3 endroits, le désert, un oasis et quelques terres cultivables. Les Sariniens vous louent des terres au plus proche de cette cité."
@@ -115,7 +115,7 @@
     "brigades":[
         {
             "name": "Eclaireurs",
-            "level": 2,
+            "level": 4,
             "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
         },
         {
@@ -125,7 +125,7 @@
         },
         {
             "name": "Fantômes",
-            "level": 7,
+            "level": 8,
             "description": "Ils s'infiltrent partout, mais sont considérés comme des traîtres par votre peuple."
         }
     ]
