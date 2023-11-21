@@ -115,7 +115,7 @@
     "brigades":[
         {
             "name": "Eclaireurs",
-            "level": 4,
+            "level": 3,
             "description": "Ils peuvent explorer des régions lointaines, et reviennent parfois en vie."
         },
         {
